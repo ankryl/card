@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/card/static/css/main.900c1a46.css",
+    "main.js": "/card/static/js/main.fbbefe6b.js",
+    "static/media/keksoBooking.png": "/card/static/media/keksoBooking.5953b5930eba6d79c459.png",
+    "static/media/catEnergy.png": "/card/static/media/catEnergy.563dbebdc2d6e21a181a.png",
+    "static/media/fermStore.png": "/card/static/media/fermStore.a12f6fb446546e892664.png",
+    "static/media/selfphoto.jpg": "/card/static/media/selfphoto.5da0e7aef1dac455fdc7.jpg",
+    "static/media/gulp.svg": "/card/static/media/gulp.d9ea333915a8ac9034fb6ece854e8b22.svg",
+    "static/media/sass.svg": "/card/static/media/sass.968487760d21be6a68e08ad1e1c51655.svg",
+    "static/media/react.svg": "/card/static/media/react.4a455e3acf30698a2e8808699a3416e2.svg",
+    "static/media/vk.svg": "/card/static/media/vk.f5d6b901bbef6d9c67b25f7bebaf87e9.svg",
+    "static/media/telegram.svg": "/card/static/media/telegram.992a4b7ed12d48c39b4f84c8f832af5f.svg",
+    "static/media/css.svg": "/card/static/media/css.d7d6f1be87fc825059dabcc744d71b3e.svg",
+    "static/media/html.svg": "/card/static/media/html.bd83875b83d143d4cdef0e9a8a5219fc.svg",
+    "static/media/figma.svg": "/card/static/media/figma.d8b3b9b975bfefd26917b8c8d002c151.svg",
+    "index.html": "/card/index.html",
+    "static/media/js.svg": "/card/static/media/js.5c47255d9ba0338403bfb19161d285d2.svg",
+    "static/media/hidenav.svg": "/card/static/media/hidenav.21d9e64d5e4bc2aa739bbce88f2aabee.svg",
+    "static/media/opennav.svg": "/card/static/media/opennav.7e4ed8f37f08f6dd348a917d78d2b64b.svg",
+    "static/media/github.svg": "/card/static/media/github.d6f9982bb6390b3db8dae94e0ebc3d4e.svg",
+    "main.900c1a46.css.map": "/card/static/css/main.900c1a46.css.map",
+    "main.fbbefe6b.js.map": "/card/static/js/main.fbbefe6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.900c1a46.css",
+    "static/js/main.fbbefe6b.js"
+  ]
+}
