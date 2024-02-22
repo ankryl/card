@@ -28,7 +28,7 @@ export default function Portfolio() {
           </CreatePortfolioItem>
           <CreatePortfolioItem>
             <CreateImage src={fermStore}/>
-            <CreatePortfolioFigcaption>Ferm store</CreatePortfolioFigcaption>
+            <CreatePortfolioFigcaption href="https://73n1c.csb.app/">Ferm store</CreatePortfolioFigcaption>
           </CreatePortfolioItem>
         </CreatePortfolioList>
       </CreatePortfolio>
