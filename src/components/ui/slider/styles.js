@@ -19,7 +19,6 @@ export const StyledSlider = styled(Swiper)`
     }
 `;
 
-
 export const StyledImg = styled(Img)`
     width: 333px;
     height: 239px;

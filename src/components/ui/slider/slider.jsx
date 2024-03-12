@@ -22,7 +22,14 @@ export default function Slider() {
             <StyledButton left ref={navigationPrevRef} title="Назад">
                 <StyledIconImg src={arrowLeft} />
             </StyledButton>
-            <StyledButton right ref={navigationNextRef} title="Вперёд">
+            <StyledButton
+                right
+                ref={navigationNextRef}
+                title="Вперёд"
+                style={{
+                    order: 1,
+                }}
+            >
                 <StyledIconImg src={arrowRight} />
             </StyledButton>
             <StyledSlider
