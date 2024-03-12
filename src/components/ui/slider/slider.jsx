@@ -22,6 +22,9 @@ export default function Slider() {
             <StyledButton left ref={navigationPrevRef} title="Назад">
                 <StyledIconImg src={arrowLeft} />
             </StyledButton>
+            <StyledButton right ref={navigationNextRef} title="Вперёд">
+                <StyledIconImg src={arrowRight} />
+            </StyledButton>
             <StyledSlider
                 modules={[Navigation]}
                 onBeforeInit={(swiper) => {
@@ -50,9 +53,6 @@ export default function Slider() {
                         </SwiperSlide>
                     ))}
             </StyledSlider>
-            <StyledButton right ref={navigationNextRef} title="Вперёд">
-                <StyledIconImg src={arrowRight} />
-            </StyledButton>
         </SlyderWrapper>
     );
 }
