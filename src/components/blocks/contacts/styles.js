@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { A } from "../../ui/elements";
 
-export const CreateContacts = styled.section`
+export const WrapperContacts = styled.section`
   display: flex;
   flex-direction: column;
   margin: 0 auto;

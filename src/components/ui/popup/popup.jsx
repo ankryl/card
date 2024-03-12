@@ -1,11 +1,11 @@
 import React, { useEffect } from "react";
 import Slider from "../slider/slider";
-import { WrapperPopup, Close } from "./styles";
-import hidenav from "../../../assets/hidenav.svg";
+import { WrapperPopup, Close, StyledImg} from "./styles";
+import exit from "../../../assets/exit.svg";
 
-export default function PopUp({ isShow, onClose, content }) {
+export default function PopUp({ isShow, onClose}) {
   const handlerEsc = (evt) => {
-    if (evt.keyCode === 27) {
+    if (evt.key === "Escape") {
       onClose && onClose();
     }
   };
@@ -19,7 +19,7 @@ export default function PopUp({ isShow, onClose, content }) {
   return isShow ? (
     <WrapperPopup>
       <Close onClick={onClose}>
-        <img src={hidenav} />
+        <StyledImg src={exit} width={20} height={20}/>
       </Close>
       <Slider />
     </WrapperPopup>

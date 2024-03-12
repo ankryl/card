@@ -1,5 +1,5 @@
 import styled from "styled-components";
 
-export const CreateFooter = styled.footer`
+export const FooterWrapper = styled.footer`
   margin: 0 auto;
 `;
