@@ -53,7 +53,7 @@ export default function Slider() {
                             <StyledImg
                                 src={item.image}
                                 alt="изображение продукта"
-                                width="800"
+                                width="745"
                                 height="564"
                                 maxWidth="800"
                             />

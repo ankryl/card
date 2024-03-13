@@ -16,7 +16,7 @@ export const WrapperPopup = styled.div`
 
     @media (min-width: 840px) {
         top: 200px;
-        max-width: 750px;
+        max-width: 800px;
         padding: 24px 6px;
     }
 `;
