@@ -14,7 +14,7 @@ export const StyledSlider = styled(Swiper)`
     margin: auto;
 
     @media (min-width: 840px) {
-        width: 750px;
+        width: 755px;
         height: 564px;
     }
 `;

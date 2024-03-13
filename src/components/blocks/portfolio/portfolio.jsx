@@ -64,13 +64,13 @@ export default function Portfolio() {
                     <Image src={fermStore} width={673} height={373} />
                     <FigcaptionWrapper>
                         <PortfolioFigcaption
-                            href="https://ankryl.github.io/fermstore/"
+                            href="https://ankryl.github.io/storeferm"
                             target="_blank"
                         >
                             Ferm store
                         </PortfolioFigcaption>
                         <LinkGit
-                            href="https://github.com/ankryl/fermstore"
+                            href="https://github.com/ankryl/storeferm"
                             target="_blank"
                         >
                             <img
