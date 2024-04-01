@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/card/static/css/main.900c1a46.css",
-    "main.js": "/card/static/js/main.fdb06c38.js",
+    "main.js": "/card/static/js/main.5a27b94e.js",
     "static/media/keksoBooking.png": "/card/static/media/keksoBooking.5953b5930eba6d79c459.png",
     "static/media/catEnergy.png": "/card/static/media/catEnergy.563dbebdc2d6e21a181a.png",
     "static/media/fermStore.png": "/card/static/media/fermStore.a12f6fb446546e892664.png",
@@ -23,10 +23,10 @@
     "static/media/arrow-right-solid.svg": "/card/static/media/arrow-right-solid.484202698ce65a950cbe06f7bcac51a4.svg",
     "static/media/arrow-left-solid.svg": "/card/static/media/arrow-left-solid.07f8c39113e8fb15b640ecafe6256813.svg",
     "main.900c1a46.css.map": "/card/static/css/main.900c1a46.css.map",
-    "main.fdb06c38.js.map": "/card/static/js/main.fdb06c38.js.map"
+    "main.5a27b94e.js.map": "/card/static/js/main.5a27b94e.js.map"
   },
   "entrypoints": [
     "static/css/main.900c1a46.css",
-    "static/js/main.fdb06c38.js"
+    "static/js/main.5a27b94e.js"
   ]
 }
