@@ -3,7 +3,7 @@ import { Button } from "../elements";
 
 export const WrapperPopup = styled.div`
     box-sizing: border-box;
-    border: 1px solid ${(props)=>props.theme.colorBlack};
+    border: 1px solid rgb(230, 230, 230);
     top: 165px;
     margin: 0 auto;
     background: ${(props)=>props.theme.colorWhite};
@@ -16,7 +16,7 @@ export const WrapperPopup = styled.div`
 
     @media (min-width: 840px) {
         top: 200px;
-        max-width: 800px;
+        max-width: 805px;
         padding: 24px 6px;
     }
 `;
