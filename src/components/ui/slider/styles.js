@@ -22,6 +22,7 @@ export const StyledSlider = styled(Swiper)`
 export const StyledImg = styled(Img)`
     width: 333px;
     height: 239px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 10px 3px;
 
     @media (min-width: 840px) {
         width: 750px;

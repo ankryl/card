@@ -6,7 +6,7 @@ export const WrapperPopup = styled.div`
     border: 1px solid ${(props)=>props.theme.colorBlack};
     top: 165px;
     margin: 0 auto;
-    background: lightgrey;
+    background: ${(props)=>props.theme.colorWhite};
     position: fixed;
     max-width: 375px;
     left: 50%;
