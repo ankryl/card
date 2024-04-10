@@ -24,8 +24,9 @@ export const StyledImg = styled(Img)`
     height: 239px;
 
     @media (min-width: 840px) {
-        width: 750px;
-        height: 564px;
+        border: solid black 1px;
+        width: 753px;
+        height: 562px;
     }
 `;
 
